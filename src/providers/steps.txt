@@ -1,0 +1,12 @@
+Context Api Making :- 
+1. create Context (export)
+2. create provider and set context value
+5. to access the value : useContext hook
+
+Then: 
+1. main.jsx set AuthProvider 
+2. inside provider access children props and then use
+
+Then : 
+1. breakdown the create user function
+2. auth provider will have auth and pass email and password from register
